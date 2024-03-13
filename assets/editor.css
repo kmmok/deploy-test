@@ -16,6 +16,9 @@ h2 {
   font-family: cursive;
 }
 
+a.button {}
+
+
 /* Applied to content, excluded from style dropdown */
 .align-left { text-align: left; }
 .align-center { text-align: center; }
