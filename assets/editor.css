@@ -16,7 +16,12 @@ h2 {
   font-family: cursive;
 }
 
-a.button {}
+a.button {
+    border: none;
+  margin-left: -1em;
+  font-weight: bold;
+  font-size: var(--text-size-large);
+}
 
 
 /* Applied to content, excluded from style dropdown */
